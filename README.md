@@ -1,6 +1,6 @@
 # String
-### Rabin Karp's rolling hash method to find longest pallindromic prefix
-
+### Rabin Karp's rolling hash method to find longest palindromic prefix
+#### Shortest Palindrome
 ```cpp
 #include <bits/stdc++.h>
 #define ll long long
