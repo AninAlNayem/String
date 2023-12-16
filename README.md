@@ -1,6 +1,9 @@
 # String
 ### Rabin Karp's rolling hash method to find longest palindromic prefix
 #### Shortest Palindrome
+##### Description
+You are given a string S. You can add some characters at the begining of the string. Your task is to create shortest palindrome by adding some (possibly none) characters at the begining of S.
+
 ```cpp
 #include <bits/stdc++.h>
 #define ll long long
